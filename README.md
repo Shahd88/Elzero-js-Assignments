@@ -18,4 +18,4 @@ As I progress, additional folders will be added for subsequent weeks and concept
 ## How to Use  
 1. Clone this repository to your local machine:  
    ```bash
-   git clone https://github.com/YourUsername/elzero-js-assignments.git
+   git clone https://github.com/Shahd88/Elzero-js-Assignments.git
